@@ -4,3 +4,7 @@ A fundamental step in the patent application process is the determination of whe
 
 ### Repository Overview
 This repository contains the ClaimCompare submission for the [2024 PatentSemTech Workshop](https://www.ifs.tuwien.ac.at/patentsemtech/cfp.html). Included is the code for the ClaimCompare pipeline as well as our sample dataset for the electrochemical domain. This sample dataset possesses the claims and relevant metadata for 1,045 base patents each matched with 25 novelty destroying or related (non-novelty destroying) patents. To fit the entire dataset in GitHub, we segment it into 11 chunks of 95 patents each, all of which can be found under the sample_dataset folder.
+
+### Repository Usage
+If you use this repository, please cite:
+Parikh, A. and Dori-Hacohen, S. ClaimCompare: A Data Pipeline for Evaluation of Novelty Destroying Patent Pairs. PatentSemTech Workshop at The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024).
