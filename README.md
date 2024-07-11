@@ -2,6 +2,7 @@
 
 ### Repository Usage
 If you use this repository, please cite:
+
 Parikh, A. and Dori-Hacohen, S. **ClaimCompare: A Data Pipeline for Evaluation of Novelty Destroying Patent Pairs.** PatentSemTech Workshop at The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024).
 
 ### Paper Abstract 
